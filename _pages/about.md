@@ -1,23 +1,28 @@
 ---
 layout: about
 permalink: /
-title: <strong>Your</strong> Name
-description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
+title: <strong>Abhishek</strong> Bhutra
+#description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: sf_pic.jpg
+  image: budapest_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Bangalore, India</p>
 
-news: true
+#news: true
 social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi Visitor!! I'm entrepreneur at heart. I love solving problems and imagining companies around them.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Graduated in 2012, from IIT-BHU. Worked as Software Engineer for ~ a year after that. I planned into getting into IIM, cracked CAT but instead ended up starting the entrepreneur journey.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+2013, started Zostel from a small property in Jodhpur with the ambition to change the way India travel. And today we are present at 35+ locations across India and Nepal. We are biggest Backpackers' hostel chain in India and last I heard rank in top 10 across world. Here is the [Zostel Website](https://zostel.com) so that you can check out the awesome things we are doing.
+
+In 2015, we started Zo Rooms a chain of Hotels. It was one hell of a journey. We were among the fastest growing startup that year. We went from 0 to 700 Hotels, 7000+ Rooms, 25+ Cities, 25Mn+ ARR in less than an year and half. We raised some $35Mn+ in the journey. And while there is only official Facebook page, there are enough news articles on google covering journey from start till end.
+
+2017-2018 were the years of cryptocurrency and blockchain. We created one of the first cryptocurrency wallet for with lightning network capabilities. Moved out from Delhi and shifted to SF and then back to Bangalore.
+
+2019, I will be working with startups working on India growth story while pursuing my interests in Blockchain in sides.

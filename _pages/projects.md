@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
+title: books
+permalink: /books/
+description: Books I am reading.
 ---
 
 {% for project in site.projects %}
