@@ -6,6 +6,8 @@ layout: page
   <div class="profile col one {{ page.profile.align }}">
     {% if page.profile.image %}
       <img class="one" src="{{ page.profile.image | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}">
+      <img class="one" src="{{ page.profile.image2 | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}">
+      <img class="one" src="{{ page.profile.image3 | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}">
     {% endif %}
     {% if page.profile.address %}
       <div class="address">

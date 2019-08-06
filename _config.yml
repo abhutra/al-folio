@@ -47,7 +47,7 @@ text:
     older: 'Older'
 
 # Comments
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: abhutra # put your disqus shortname
 
 # Optional features
 show_social_icons:  false
@@ -91,7 +91,7 @@ plugins:
 # Jekyll-Scholar
 scholar:
 
-  last_name: Einstein
+  last_name: abhutra
 
   style: apa
   locale: en

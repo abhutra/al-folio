@@ -1,4 +1,4 @@
----
+<!---
 layout: page
 title: books
 permalink: /books/
@@ -45,4 +45,4 @@ description: Books I am reading.
 
 {% endif %}
 
-{% endfor %}
+{% endfor %} -->
