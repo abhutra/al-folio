@@ -14,7 +14,7 @@ profile:
 social: true
 ---
 
-Hi Visitor!! I'm entrepreneur at heart. I love solving problems and imagining companies around them.
+Hi Visitor!! My name is Abhishek Bhutra.
 
 Graduated in 2012, from IIT-BHU. Worked as Software Engineer for ~ a year after that. I planned into getting into IIM, cracked CAT but instead ended up starting the entrepreneur journey.
 
