@@ -7,8 +7,8 @@ title: <strong>Abhishek</strong> Bhutra
 profile:
   align: right
   image: budapest_pic.jpg
-  address: >
-    <p>Bangalore, India</p>
+  #address: >
+  #  <p>Bangalore, India</p>
 
 #news: true
 social: true
